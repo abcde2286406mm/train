@@ -1,8 +1,7 @@
 package com.ucarinc.wtf.demo.Cache;
 
+import com.ucarinc.wtf.train.Cache.LFUcache;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @ProjectName: shiro-demo

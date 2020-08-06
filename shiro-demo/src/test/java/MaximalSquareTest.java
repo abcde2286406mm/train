@@ -1,4 +1,4 @@
-import com.ucarinc.wtf.demo.MaximalSquare;
+import com.ucarinc.wtf.train.MaximalSquare;
 import org.junit.Test;
 
 /**

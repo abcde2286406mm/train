@@ -1,6 +1,6 @@
 package com.ucarinc.wtf.demo;
 
-import com.ucarinc.wtf.demo.Order.Order;
+import com.ucarinc.wtf.train.Order.Order;
 import org.junit.Test;
 
 /**

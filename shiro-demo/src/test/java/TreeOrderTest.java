@@ -1,5 +1,5 @@
-import com.ucarinc.wtf.demo.Tree.TreeOrder;
-import com.ucarinc.wtf.demo.Tree.TreeNode;
+import com.ucarinc.wtf.train.Tree.TreeOrder;
+import com.ucarinc.wtf.train.Tree.TreeNode;
 import org.junit.Test;
 
 /**

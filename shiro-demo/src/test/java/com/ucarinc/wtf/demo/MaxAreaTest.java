@@ -1,5 +1,6 @@
 package com.ucarinc.wtf.demo;
 
+import com.ucarinc.wtf.train.MaxArea;
 import org.junit.Test;
 
 /**

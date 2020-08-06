@@ -1,5 +1,4 @@
-import com.ucarinc.wtf.demo.Lambda;
-import com.ucarinc.wtf.demo.Model.AnonymityClass;
+import com.ucarinc.wtf.train.Lambda;
 import org.junit.Test;
 
 /**

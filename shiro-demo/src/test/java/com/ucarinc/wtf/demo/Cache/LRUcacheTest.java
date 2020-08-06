@@ -1,6 +1,6 @@
 package com.ucarinc.wtf.demo.Cache;
 
-import com.ucarinc.wtf.demo.Cache.LRUcache;
+import com.ucarinc.wtf.train.Cache.LRUcache;
 import org.junit.Test;
 
 import java.util.List;

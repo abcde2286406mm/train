@@ -1,8 +1,7 @@
 package com.ucarinc.wtf.demo.DynamicProgramming;
 
+import com.ucarinc.wtf.train.DynamicProgramming.Rob;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @ProjectName: shiro-demo

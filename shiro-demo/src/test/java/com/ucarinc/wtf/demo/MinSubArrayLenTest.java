@@ -1,8 +1,7 @@
 package com.ucarinc.wtf.demo;
 
+import com.ucarinc.wtf.train.MinSubArrayLen;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * @ProjectName: shiro-demo

@@ -1,4 +1,4 @@
-import com.ucarinc.wtf.demo.MyPow;
+import com.ucarinc.wtf.train.MyPow;
 import org.junit.Test;
 
 /**

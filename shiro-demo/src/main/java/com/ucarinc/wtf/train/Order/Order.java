@@ -150,6 +150,7 @@ public class Order {
                     index = (index - 1)/2;
                 }
             }
+
             swap(ints,0,j - 1);
         }
         return ints;

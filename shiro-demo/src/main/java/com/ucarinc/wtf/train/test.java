@@ -1,5 +1,12 @@
 package com.ucarinc.wtf.train;
 
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.FactoryBean;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.LinkedList;
+
 /**
  * @ProjectName: shiro-demo
  * @Package: com.ucarinc.wtf
@@ -12,7 +19,9 @@ package com.ucarinc.wtf.train;
 public class test {
     public static void main(String[] args) throws ClassNotFoundException {
 
+
 //        TranslateNum.translateNum(12312231);
+
 
 //
 //        int  xiao_yao=68  ;

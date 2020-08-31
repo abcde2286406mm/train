@@ -1,10 +1,13 @@
 package com.ucarinc.wtf;
 
 
+import com.ucarinc.wtf.Spring.Hook.Registrar.EnableRegistrar;
+import com.ucarinc.wtf.Spring.Hook.Registrar.EnableThrowableBean;
 import org.mybatis.spring.annotation.MapperScan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Import;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import java.util.ArrayList;
@@ -19,6 +22,7 @@ import java.util.List;
 @SpringBootApplication
 @EnableTransactionManagement
 @MapperScan("com.ucarinc.wtf.dao")
+@Import(value = {EnableRegistrar.class})
 public class ShiroApplication {
     public static void main(String[] args) {
         SpringApplication.run(ShiroApplication.class, args);

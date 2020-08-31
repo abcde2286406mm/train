@@ -49,7 +49,6 @@ public class Test {
         thread1.start();
         thread2.start();
         thread2.interrupt();
-        ClassLoader
     }
 //    ReentrantLock lock = new ReentrantLock();
 //    Condition condition = lock.newCondition();
